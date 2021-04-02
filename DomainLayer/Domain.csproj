@@ -5,4 +5,9 @@
     <AssemblyName>Domain</AssemblyName>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="DatabaseConnection\" />
+    <Folder Include="Models\" />
+  </ItemGroup>
+
 </Project>
